@@ -1,0 +1,7 @@
+{
+  "appId": "tw.com.mycsu",
+  "appName": "ionic4Tutorial",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
